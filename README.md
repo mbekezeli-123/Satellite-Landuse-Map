@@ -10,7 +10,7 @@ Satellite Imagery: Sentinel-2 / Landsat-8 (processed image shown in PDF)
 Imagery Type: Multispectral imagery (used for detecting vegetation, water bodies, and built-up areas)
 
 Tools & Software Used:
--QGIS (Open-source GIS Software)
+-QGIS (Open-source GIS Software), LANDSAT,GOOGLE EARTH ENGINE
 - Remote Sensing Techniques: Band combinations, NDVI, supervised classification
 - PDF Output: Final map layout created and exported as a high-resolution image
 
