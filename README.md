@@ -34,3 +34,5 @@ Notes:
 Author:
 Mbekezeli Maphosa
 Geography Student | GIS & Remote Sensing Enthusiast  
+Contact: +917508158678
+Email: maphosambekezeli2@gmail.com
