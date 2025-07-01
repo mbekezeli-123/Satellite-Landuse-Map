@@ -28,7 +28,8 @@ Methodology Summary:
 Understanding land use patterns is critical for sustainable planning, climate monitoring, and biodiversity conservation. This project demonstrates the ability to interpret satellite data and apply GIS techniques - a valuable skill for geospatial programs and environmental applications.
 
 Notes:
-- This project was developed as part of a geospatial analysis portfolio for academic and scholarship applications (e.g., Erasmus Mundus).
+- This project was developed as part of a geospatial analysis portfolio for academic and increase of skill and familiarity with GIS tools use in real world application
+- 
 - No raw satellite imagery is provided here due to file size constraints; however, the methodology is reproducible using open data sources such as [Copernicus Open Access Hub](https://scihub.copernicus.eu/) or [USGS EarthExplorer](https://earthexplorer.usgs.gov/).
 
 Author:
